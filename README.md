@@ -1,4 +1,4 @@
-# Encode Sale Honeybirds
+# Price Encoder - Honeybirds
 
 ## Overview
 This C++ program processes a CSV file containing a "Sale" column, encodes the prices using the **HONEYBIRDS** mapping, and outputs a new CSV file with an additional "S-code" column.
